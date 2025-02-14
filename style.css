@@ -1,0 +1,44 @@
+body {
+  background-color: rgb(233, 233, 233);
+}
+#tong {
+  width: 100%;
+  background-color: #e6e6e6;
+}
+table {
+  border-collapse: collapse;
+}
+div {
+  text-align: center;
+  background-color: #d3d3d3;
+  width: 100%;
+  padding: 10px;
+  margin-top: 30px;
+}
+h1 {
+  font-size: xx-large;
+  text-align: center;
+}
+h2 {
+  font-size: xx-large;
+}
+h4 {
+  font-size: x-large;
+}
+
+td {
+  background-color: pink;
+  width: 30vw;
+  text-align: center;
+}
+a {
+  text-decoration: none;
+  color: rgb(225, 241, 163);
+  font-size: x-large;
+}
+a:hover {
+  color: aqua;
+}
+p {
+  font-size: x-large;
+}
