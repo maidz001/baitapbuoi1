@@ -1,0 +1,41 @@
+body {
+  background-color: #e7e6e6;
+}
+span {
+  font-size: x-large;
+}
+h1 {
+}
+img {
+  width: 100%;
+  height: 30%;
+}
+div {
+  background-color: #fff;
+  margin-left: 20%;
+  margin-right: 20%;
+  padding: 20px;
+}
+table {
+  border-collapse: collapse;
+}
+td {
+  background-color: pink;
+  text-align: center;
+  height: 3vw;
+  width: 25vw;
+  font-size: x-large;
+}
+a {
+  color: rgb(231, 132, 56);
+  text-decoration: none;
+}
+#divimg {
+  padding: 0;
+  margin: 0%;
+  background-color: #e3e3e3;
+}
+#div3 {
+  background-color: #e7e6e6;
+  height: 20px;
+}
